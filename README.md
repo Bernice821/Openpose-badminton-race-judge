@@ -75,3 +75,6 @@ Step 2: gather the evaluation results (optional)
 ### Show trajectory
 `python3 show_trajectory.py --video_file test.mp4 --csv_file prediction/test_ball.csv --save_dir prediction`
 "Openpose-badminton-race-judge" 
+
+###All result
+'python3 main.py'
